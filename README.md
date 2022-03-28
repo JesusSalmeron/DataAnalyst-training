@@ -1,4 +1,4 @@
 # DataAnalyst-training
 
-Python > Pandas.\n
+Python > Pandas.
 Python > Matplotlib
